@@ -8,10 +8,15 @@ The library currently struggles to monitor which books are borrowed most frequen
 
 >Expected Outcome:
 By analyzing circulation transactions with PL/SQL window functions, the library will:
+
 .Identify the top borrowed books and categories per quarter.
+
 .Track borrowing frequency trends over time (running totals, moving averages).
+
 .Measure growth or decline in borrowings month-to-month.
+
 .Segment library members into groups (e.g., heavy users vs casual readers).
+
 .Provide actionable insights to improve book purchasing, stock management, and member engagement.
 
 ## Step 2: Success Criteria
