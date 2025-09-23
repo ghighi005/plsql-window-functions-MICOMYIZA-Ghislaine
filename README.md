@@ -1,5 +1,5 @@
 # plsql-window-functions-MICOMYIZA-Ghislaine
-## Step 1: 
+## Step 1: Problem Definition
 >Business concept:
 I will be targeting Kigali Public Library making them a database to monitor the in and out of books.
 
@@ -18,11 +18,15 @@ By analyzing circulation transactions with PL/SQL window functions, the library 
 
 1.Top 5 most borrowed books per quarter → RANK()
 Identify which titles are most popular in each quarter.
+
 2.Running monthly borrow totals → SUM() OVER()
 Track how many books are borrowed each month on a cumulative basis.
+
 3.Month-over-month borrowing growth → LAG() / LEAD()
 Compare borrowing activity between months to see increases or drops.
+
 4.Member quartiles based on borrowing frequency → NTILE(4)
 Segment members into four groups (heavy borrowers, medium, light, inactive).
+
 5.3month moving average of book borrowings → AVG() OVER()
 Smooth out short term fluctuations and highlight long term borrowing trends.
