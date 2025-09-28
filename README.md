@@ -35,3 +35,45 @@ Segment members into four groups (heavy borrowers, medium, light, inactive).
 
 5.3month moving average of book borrowings → AVG() OVER()
 Smooth out short term fluctuations and highlight long term borrowing trends.
+
+Step 6: Result Analysis
+1. Descriptive Analysis – What happened?
+
+Borrowing Patterns: The quarterly ranking revealed that “Things Fall Apart” and “Harry Potter and the Sorcerer’s Stone” were among the most borrowed books. This highlights consistent demand for both classic literature and children’s fiction.
+
+Trends: The running totals show borrowing activity gradually increasing across 2023, with spikes during academic months (March–April and September).
+
+Growth/Decline: Month over month growth analysis indicates that borrowing dipped slightly in mid year but picked up again toward the start of the school term in September.
+
+Member Behavior: Quartile segmentation revealed a small group of heavy users (Quartile 1) who borrowed multiple times, while most members fell into Quartile 3 and 4, indicating light or inactive borrowing patterns.
+
+Stability: The 3 month moving average smoothed out fluctuations and confirmed a steady upward borrowing trend across the year.
+
+2. Diagnostic Analysis – Why did it happen?
+
+Popular Books/Categories: Fiction and children’s literature tend to dominate because they appeal to both leisure readers and students, while categories like Science and Technology had fewer transactions likely due to being specialized or used for reference rather than borrowing.
+
+Seasonality: Borrowing spikes align with school terms and examination seasons, when students and teachers actively seek reading materials. The mid year dip (June–July) corresponds with holidays, when library visits are less frequent.
+
+User Segmentation: A few highly engaged members drive most of the circulation. This imbalance suggests that casual or first time members either face access challenges, lack awareness of available titles, or simply use the library less regularly.
+
+Overdue/Unreturned Books: Members with unreturned books contribute to gaps in circulation flow e.g., when Grace and Jean borrowed but did not return within the period, this restricted availability for others.
+
+3. Prescriptive Analysis – What next?
+
+Acquisition Strategy: Invest more in expanding Fiction and Children’s categories, while also promoting underutilized categories (Science and Technology) through themed events or study programs.
+
+Engagement Programs: Encourage light and inactive members to borrow more by introducing loyalty rewards (e.g., borrow 5 books, get extended borrowing days free) or personalized reading recommendations.
+
+Overdue Management: Implement automated reminders via SMS/email to reduce late returns and improve book circulation efficiency.
+
+Data-Driven Planning: Use moving averages and growth rates to forecast demand, ensuring enough copies of high demand books are stocked before academic terms begin.
+
+Strategic Segmentation: Develop differentiated engagement:
+
+Quartile 1 (Heavy users): Offer early access to new arrivals.
+
+Quartile 2 (Medium users): Promote trending books to increase engagement.
+
+Quartile 3 & 4 (Light/Inactive): Provide orientation sessions or “Reading Challenges” to motivate participation.
+
