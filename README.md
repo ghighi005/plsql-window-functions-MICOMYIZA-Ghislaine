@@ -36,7 +36,9 @@ Segment members into four groups (heavy borrowers, medium, light, inactive).
 5.3month moving average of book borrowings → AVG() OVER()
 Smooth out short term fluctuations and highlight long term borrowing trends.
 
+
 Step 6: Result Analysis
+
 1. Descriptive Analysis – What happened?
 
 Borrowing Patterns: The quarterly ranking revealed that “Things Fall Apart” and “Harry Potter and the Sorcerer’s Stone” were among the most borrowed books. This highlights consistent demand for both classic literature and children’s fiction.
