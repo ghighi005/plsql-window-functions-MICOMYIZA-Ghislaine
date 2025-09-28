@@ -101,6 +101,8 @@ McKinsey & Company. (2021). Data-Driven Decision Making in Public Institutions. 
 
 Statista. (2023). Global Book Market and Reading Trends. Retrieved from https://www.statista.com/
 
+OpenAI. (2025). ChatGPT (GPT-5) [Large language model]. Retrieved from https://chat.openai.com/
+
 ## Integrity Statement
 
 I hereby declare that the work presented in this report is my own and has been prepared in accordance with academic integrity standards. Any external sources of information, data, or code have been properly acknowledged and referenced. This project was completed without unauthorized assistance, plagiarism, or academic misconduct.
