@@ -79,3 +79,24 @@ Quartile 2 (Medium users): Promote trending books to increase engagement.
 
 Quartile 3 & 4 (Light/Inactive): Provide orientation sessions or “Reading Challenges” to motivate participation.
 
+## Step 7: References
+
+Oracle. (2023). Oracle Database SQL Language Reference. Retrieved from https://docs.oracle.com/en/database/
+
+PostgreSQL Global Development Group. (2023). PostgreSQL 15 Documentation – Window Functions. Retrieved from https://www.postgresql.org/docs/current/functions-window.html
+
+Microsoft. (2023). SQL Server: Ranking Functions. Retrieved from https://learn.microsoft.com/en-us/sql/t-sql/functions/ranking-functions-transact-sql
+
+Gupta, A., & Mumick, I. (1995). Maintenance of Materialized Views: Problems, Techniques, and Applications. IEEE Data Engineering Bulletin.
+
+Ramakrishnan, R., & Gehrke, J. (2003). Database Management Systems (3rd ed.). McGraw-Hill.
+
+Redgate. (2023). SQL Window Functions for Data Analysis. Retrieved from https://www.red-gate.com/simple-talk/
+
+Mode Analytics. (2022). Introduction to SQL Window Functions. Retrieved from https://mode.com/sql-tutorial/sql-window-functions/
+
+Khan Academy. (2022). SQL: Window Functions. Retrieved from https://www.khanacademy.org/computing/computer-programming/sql
+
+McKinsey & Company. (2021). Data-Driven Decision Making in Public Institutions. Retrieved from https://www.mckinsey.com/
+
+Statista. (2023). Global Book Market and Reading Trends. Retrieved from https://www.statista.com/
