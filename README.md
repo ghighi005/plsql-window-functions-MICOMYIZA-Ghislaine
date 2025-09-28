@@ -100,3 +100,9 @@ Khan Academy. (2022). SQL: Window Functions. Retrieved from https://www.khanacad
 McKinsey & Company. (2021). Data-Driven Decision Making in Public Institutions. Retrieved from https://www.mckinsey.com/
 
 Statista. (2023). Global Book Market and Reading Trends. Retrieved from https://www.statista.com/
+
+## Integrity Statement
+
+I hereby declare that the work presented in this report is my own and has been prepared in accordance with academic integrity standards. Any external sources of information, data, or code have been properly acknowledged and referenced. This project was completed without unauthorized assistance, plagiarism, or academic misconduct.
+
+I affirm that the analysis, results, and recommendations are based on my understanding and interpretation of the subject matter, supported by credible references.
