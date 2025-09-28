@@ -37,7 +37,7 @@ Segment members into four groups (heavy borrowers, medium, light, inactive).
 Smooth out short term fluctuations and highlight long term borrowing trends.
 
 
-Step 6: Result Analysis
+##Step 6: Result Analysis
 
 1. Descriptive Analysis – What happened?
 
